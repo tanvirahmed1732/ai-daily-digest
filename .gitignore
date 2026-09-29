@@ -1,0 +1,14 @@
+# Secrets — never commit
+config.env
+
+# Runtime files
+last_run.log
+bat_run.log
+last_sent.txt
+*.bak
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
