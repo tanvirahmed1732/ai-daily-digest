@@ -39,7 +39,7 @@ Python 3 is usually preinstalled. Check with `python3 --version`. If it's missin
 
 Either download the ZIP from GitHub (green **Code** button, then **Download ZIP**, then unzip it), or clone it:
 ```
-git clone https://github.com/<owner>/<repo>.git
+git clone https://github.com/tanvirahmed1732/ai-daily-digest.git
 ```
 
 Put the folder somewhere permanent, for example `C:\AI-Digest`. The daily schedule depends on this path, so don't move the folder later.
